@@ -1,0 +1,6 @@
+{
+  "title": "$:/plugins/loopmode/babel-polyfill",
+  "description": "Babel Polyfills for ES2015 support",
+  "author": "Jovica Aleksic",
+  "core-version": ">=5.0.0"
+}
